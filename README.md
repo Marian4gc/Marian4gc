@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="JavaScript" title="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br><br>
   <img align="center" alt="Git" title="Git" height="50" width="80" src="https://blog.facialix.com/wp-content/uploads/2021/04/git-github-cero-facialix.jpg">
-  <img align="center" alt="figma" title="figma" height="50" width="80" src="https://www.protocol.com/media-library/figma-logo.png?id=29208385&width=1200&height=600&coordinates=0%2C60%2C0%2C60">
+  <img align="center" alt="figma" title="figma" height="50" width="80" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-707x1080.png">
   <img align="center" alt="PHP" title="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 
 </div>
