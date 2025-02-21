@@ -30,14 +30,14 @@ Mi curiosidad insaciable y amor por los desafíos me han llevado a explorar desd
 - 💡 Explorando nuevas tecnologías, frameworks y herramientas de diseño.
 
 ---
-
+<!--
 ## 📊 Mis estadísticas en GitHub
 
 ![Marian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marian4gc&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian4gc&layout=compact&theme=radical)
 
 ---
-
+-->
 ## 🌐 ¡Conectemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariangarciacabrera/)
@@ -45,4 +45,4 @@ Mi curiosidad insaciable y amor por los desafíos me han llevado a explorar desd
 
 ---
 
-> *"Cada línea de código es un paso más cerca de lograr algo increíble."* ✨
+> *"No es que puedas hacerlo porque tienes confianza, sino que puedes tener confianza porque lo has hecho."* – **Itaewon Class** 🌟
