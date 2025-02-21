@@ -1,33 +1,48 @@
-# Hola a todos 👋
+# 👋 ¡Hola a todos! Soy Marian
 
-<!--
-**Marian4gc/Marian4gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/117035764/226346862-05443bc8-7a06-4d76-a26d-3c2a54df0d59.png" alt="Banner" width="100%">
 
-Here are some ideas to get you started:
+## 🌟 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Hola mundo! 👩‍💻 Soy **Marian** y estoy emocionada de compartir mi viaje hacia el desarrollo web.  
+Después de años en el sector de ventas, decidí seguir mi pasión por la tecnología y adentrarme en el mundo del **desarrollo fullstack**.
 
-![portadaLinkedin (2)](https://user-images.githubusercontent.com/117035764/226346862-05443bc8-7a06-4d76-a26d-3c2a54df0d59.png)
+Mi curiosidad insaciable y amor por los desafíos me han llevado a explorar desde el diseño de interfaces hasta la programación backend. Ahora, también estoy empezando a introducirme en el fascinante mundo de la **inteligencia artificial** 🤖. ¡Cada día es una oportunidad de aprender algo nuevo! 🚀
 
+---
 
-## Herramientas que utilizo:
+## 🔧 Herramientas que utilizo
 
-<div align="center">
-  <img align="center" alt="HTML" title="HTML 5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS 3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="React" title="React" height="50" width="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--fced_LNQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1zg83mt0lo13dfmff1cr.png"> -->
-  <img align="center" alt="JavaScript" title="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<br><br>
-  <img align="center" alt="Git" title="Git" height="50" width="80" src="https://blog.facialix.com/wp-content/uploads/2021/04/git-github-cero-facialix.jpg">
-  <img align="center" alt="figma" title="figma" height="50" width="80" src="https://th.bing.com/th/id/OIP.nnlswlldP0Zbk-8plZtgagHaHa?w=199&h=199&c=7&r=0&o=5&dpr=1.3&pid=1.7">
-  <img align="center" alt="PHP" title="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+---
+
+## 🚀 ¿Qué estoy haciendo ahora?
+
+- 🌱 Aprendiendo lo que puedo de **inteligencia artificial** 🤖.
+- 🔭 Trabajando en proyectos fullstack para mejorar mis habilidades.
+- 💡 Explorando nuevas tecnologías, frameworks y herramientas de diseño.
+
+---
+
+## 📊 Mis estadísticas en GitHub
+
+![Marian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marian4gc&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian4gc&layout=compact&theme=radical)
+
+---
+
+## 🌐 ¡Conectemos!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariangarciacabrera/)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marian.garcia.cabrera@gmail.com)
+
+---
+
+> *"Cada línea de código es un paso más cerca de lograr algo increíble."* ✨
