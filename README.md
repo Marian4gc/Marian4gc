@@ -1,4 +1,4 @@
-# 👋 ¡Hola a todos! Soy Marian
+# 👋 ¡Hola a todos!
 
 <img src="https://user-images.githubusercontent.com/117035764/226346862-05443bc8-7a06-4d76-a26d-3c2a54df0d59.png" alt="Banner" width="100%">
 
